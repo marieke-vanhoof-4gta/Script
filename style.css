@@ -1,3 +1,22 @@
 body {
     background-color: rgb(131, 207, 182);
 }
+
+header, #about, footer {
+    margin: 5%;
+}
+
+#about {
+    display: flex;
+    border: 2px solid red;
+}
+
+.col {
+    padding: 20px;
+    flex: 1;
+}
+
+.right {
+    flex: 2;
+    border-left: 3px solid blue;
+}
