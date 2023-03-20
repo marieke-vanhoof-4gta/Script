@@ -1,14 +1,16 @@
 body {
-    background-color: rgb(131, 207, 182);
+    background-color: darkblue;
 }
 
 header, #about, footer {
     margin: 5%;
+    background-color: cornflowerblue;
 }
+
 
 #about {
     display: flex;
-    border: 2px solid red;
+    border: 2px solid darkblue
 }
 
 .col {
@@ -18,5 +20,5 @@ header, #about, footer {
 
 .right {
     flex: 2;
-    border-left: 3px solid blue;
+    border-left: 3px solid darkblue
 }
