@@ -77,3 +77,28 @@ video {
 main {
     padding: 20px;
 }
+
+footer {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 4rem;
+}
+
+h2 {
+    margin-bottom: 4rem;
+}
+
+figcaption {
+    position: absolute;
+    bottom: 10%;
+    left: 25%;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: burlywood;
+    color: saddlebrown;
+}
+figure {
+    position: relative;
+}
