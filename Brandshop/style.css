@@ -99,6 +99,24 @@ figcaption {
     background-color: burlywood;
     color: saddlebrown;
 }
+
 figure {
     position: relative;
+}
+
+footer {
+    background-color: white;
+}
+
+footer a {
+    color: black;
+    text-decoration: none;
+}
+
+footer li {
+    list-style: none;
+}
+
+footer li:first-child {
+    font-weight: 900;
 }
